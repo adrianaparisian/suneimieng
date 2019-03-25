@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://biigheuxas.use-init.com/sitemap.xml
